@@ -1,0 +1,4 @@
+28f97efcbda9215f2b17cf75155d8cd4a9bf5d49752317df0273e0188288bf3f *config.seed
+ca08bfc0834fd5b67be2d4d10400498061feb925466ae1bfcc9ef518da5c5e72 *openwrt-sunxi-cortexa7-device-sun8i-h2-plus-orangepi-r1.manifest
+d306066a170b0628961abcd10e0534b387e43d25e1639bdb1f9640d3e28ebc85 *openwrt-sunxi-cortexa7-sun8i-h2-plus-orangepi-r1-ext4-sdcard.img.gz
+76b07df6ac14eae0961b3e8344fc867306a7668152db871b5fce4efc08e23ec3 *openwrt-sunxi-cortexa7-sun8i-h2-plus-orangepi-r1-squashfs-sdcard.img.gz
